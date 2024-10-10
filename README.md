@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cloudydesuu</h1>
 <h3 align="center">Currently study Computer Enginneer Technology. Love joining in IoTs projects or Study more about IC design</h3>
-<img align="right" alt="Coding" width="400" src=https://x.com/i/status/1713246006329180478>
+<img align="right" alt="Coding" width="400" src=https://cdn.donmai.us/original/65/05/6505a6158b1c2a2fb6e72923a848ffb8.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cloudydesuu&label=Profile%20views&color=0e75b6&style=flat" alt="cloudydesuu" /> </p>
 
