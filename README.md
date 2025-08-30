@@ -1,7 +1,7 @@
 
 <h1 align="center">Luu Phuc Khang</h1>
 <h3 align="center">Major in Computer Engineer | IoT & IC Design Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.donmai.us/original/65/05/6505a6158b1c2a2fb6e72923a848ffb8.gif">
+<img align="right" alt="Coding" width="400" src="https://images.steamusercontent.com/ugc/2027222811593436732/82115CE113C66DB6D40CE2C372ABC1918172B8ED/">
 
 <p align="left">
 <strong>Professional Summary:</strong><br>
